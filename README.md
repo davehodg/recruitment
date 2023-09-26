@@ -3,14 +3,14 @@
 This repository is meant to contain general advice for people seeking work in the UK and EU.
 It has been first drafted based upon a series of conversations between 
 
-* https://github.com/davehodg/ Dave Hodgekinson
+* https://github.com/davehodg/ Dave Hodgkinson
 * https://github.com/alexmc6/ Alex McLintock
 * and several others who were far more helpful.
 
 Although Dave and Alex are both developers and techies not everyone in the discussion is. 
 Our advice may be aimed at techies, but it is not meant to solely focus on them. 
 
-The discussions are private (though if you know Alex or Dave then get in touch). 
+The discussions are private (though if you know Alex or Dave and are hunting for work then, please, get in touch). 
 
 # NOTE
 
@@ -18,14 +18,14 @@ This collection of documents will be public, and so should not contain any perso
 
 # CVs
 
-A lot of discussion revolves around curriculum vitaes (aka resumes) and how they can successfully get you an interview. 
+A lot of discussion revolves around curriculum vitae (aka resumes) and how they can successfully get you an interview. 
 
 * [Resumes](./resumes)
 * [Applicant Tracking Systems](ats_systems)
 
 # LinkedIn
 
-Love it or hate it most of us seem to find LinkedIn useful for networking and finding jobs/work to apply for. 
+Love it or hate it, most of us find LinkedIn useful for networking and finding jobs/work to apply for. 
 Here are some thoughts about LinkedIn
 
 * [Profile photos](profile_photos)
