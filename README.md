@@ -35,6 +35,20 @@ Here are some thoughts about LinkedIn
 Whatever you do when job hunting it is probably best to create and stick to a system or process for your hunt. 
 You need some kind of workflow for finding suitable job ads, or leads, keeping track of those you have applied for, and so on. 
 
-* [Workflows}(create_workflows)
+* [Workflows](create_workflows)
 
+In general people find looking for work best in the morning, ideally each day. This means that they can see job ads before hundreds of people apply. 
+
+# Networking
+
+Do we have any advice on how to meet people in your field? 
+The main thing I (Alex) learnt was to try to network with people senior to you. They are the ones who might be able to give you work. If you only network with people at the same level to you then you are trusting that they will introduce you to their manager later on. 
+
+# Public Speaking
+
+Alex recommends doing public speaking such as YouTube videos of different lengths. This can be
+
+* Interviews/Podcasts as a guest (least amount of preparation and work)
+* Lightning talks (5-10 minutes, several hours of preparation and practice) 
+* Full blown training or even books. (most amount of preparation and work)
 
